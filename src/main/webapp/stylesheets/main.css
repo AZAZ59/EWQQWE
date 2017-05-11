@@ -1,0 +1,47 @@
+.body{
+    margin: 0;
+    background: #ffffff;
+}
+
+#logo{
+    padding-right: 4vw;
+    height: 3vh;
+    float: right;;
+}
+
+#header{
+    background: yellow;
+    height: 3vh;
+}
+
+.form {
+    margin: 4vw;
+}
+
+.query{
+    width: 48%;
+    margin-right: 4%;
+    display: grid;
+}
+
+label{
+    color: black;
+    font-size: 1.2vw;
+}
+
+.queryField{
+    color: black;
+    height: 30vh;
+    width: 42vw;
+}
+
+.button{
+    float: right;
+    margin-top: 2vh;
+    padding: 0.5vw 1vw;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
